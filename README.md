@@ -1,5 +1,9 @@
-# Final Capstone
+# Schedulator
 ​
-This directory contains all of the starter projects for the final capstone.
+A medical scheduling application for facilitating appointment scheduling and management for both patients and providers.
 ​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+## Tech Stack
+* Java
+* Spring Boot
+* PostgreSQL
+* Vue
